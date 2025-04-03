@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [dsPIC Click v1.6.PcbDoc]
+   Generated File[dsPIC33CKClickv1.6.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:15:19 AM On 4/10/2024
